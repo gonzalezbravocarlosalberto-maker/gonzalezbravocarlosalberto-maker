@@ -1,82 +1,62 @@
-# Hola, soy Carlos Alberto González Bravo
+# Hola, soy Carlos Alberto González Bravo 👋
 
-Ingeniero Industrial en transición hacia el área de Ciberseguridad, con enfoque en Seguridad de Aplicaciones (AppSec) y DevSecOps.
+![Ciberseguridad](https://img.shields.io/badge/-Ciberseguridad-000000?style=flat-square&logo=security&logoColor=white)
+![AppSec](https://img.shields.io/badge/-AppSec-0052CC?style=flat-square&logo=owasp&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/-DevSecOps-2088FF?style=flat-square&logo=github&logoColor=white)
+![IaC](https://img.shields.io/badge/-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-Actualmente me encuentro cursando una Especialización en Ciberseguridad y fortaleciendo conocimientos en análisis de vulnerabilidades, desarrollo seguro, Linux, automatización y herramientas orientadas a seguridad ofensiva y defensiva.
+Ingeniero Industrial en transición hacia el área de **Ciberseguridad**, con un enfoque práctico y especializado en **Seguridad de Aplicaciones (AppSec)** y **DevSecOps**.
 
----
-
-##  Actualmente aprendiendo
-
-- Seguridad de Aplicaciones (AppSec)
-- DevSecOps y CI/CD
-- Linux y análisis de logs
-- Docker y contenedores
-- Python aplicado a automatización y seguridad
-- OWASP Top 10
-- Análisis SAST, DAST y SCA
-- Infraestructura como Código (Terraform)
+Actualmente estoy cursando una **Especialización en Ciberseguridad en UNIMINUTO**, donde he desarrollado proyectos y laboratorios prácticos en:
+- 🛡️ Gobernanza en Ciberseguridad
+- ☁️ Seguridad en Entornos Cloud y DevOps
+- 🧑‍💻 Código Seguro y Gestión de Identidad
+- 🏗️ Infraestructura como Código (IaC) - AWS & Terraform
+- 🕵️ Ethical Hacking
 
 ---
 
-##  Herramientas y tecnologías
+## 🚀 Áreas de Interés y Desarrollo Profesional
 
-- SonarQube / SonarCloud
-- Semgrep
-- OWASP ZAP
-- Snyk
-- Docker
-- GitHub
-- Linux
-- Node.js
-- APIs REST / SOAP
-- Terraform
-- Python (aprendizaje inicial)
+Busco desarrollarme profesionalmente en roles junior o de entrada relacionados con:
+- **Application Security (AppSec)**
+- **DevSecOps / CI/CD Pipeline Security**
+- **Vulnerability Management**
+- **Desarrollo Seguro (SSDLC)**
 
 ---
 
-##  Objetivo profesional
+## 🛠️ Herramientas y Tecnologías
 
-Busco desarrollarme profesionalmente en roles junior relacionados con:
+### Análisis de Seguridad (SAST/DAST/SCA)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Semgrep](https://img.shields.io/badge/-Semgrep-333333?style=flat-square&logo=semgrep&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 
-- Application Security (AppSec)
-- DevSecOps
-- Vulnerability Management
-- Seguridad de Aplicaciones
-- Análisis de Seguridad
-- Desarrollo Seguro (SSDLC)
+### Infraestructura, Cloud & DevOps
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-##  Repositorios destacados
-
-En este perfil comparto:
-
-- Laboratorios de ciberseguridad
-- Prácticas de Linux
-- Ejercicios de automatización
-- Aprendizaje de Python
-- Herramientas AppSec
-- Proyectos académicos y personales
+### Desarrollo y Automatización
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-##  Conecta conmigo
+## 📁 Sobre mis Repositorios
 
-- LinkedIn: www.linkedin.com/in/carlos-alberto-gonzalez-bravo
-## Hi there 👋
+En mi perfil de GitHub comparto el progreso de mi formación, incluyendo:
+- **Laboratorios de Infraestructura como Código:** Despliegues en AWS con Terraform (Módulos de la especialización).
+- **Entornos DevSecOps:** Configuración segura, gobernanza y prácticas de CI/CD.
+- **Contenedores:** Creación y gestión segura de imágenes con Docker.
+- **Scripts y Automatización:** Ejercicios prácticos en Python y bash.
 
-<!--
-**gonzalezbravocarlosalberto-maker/gonzalezbravocarlosalberto-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 Conecta conmigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-gonzalez-bravo)
